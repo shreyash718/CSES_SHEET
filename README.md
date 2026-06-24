@@ -5,10 +5,3 @@
 # 🧩 CSES Problem Set Solutions
 
 Welcome to my collection of **CSES Problem Set** solutions in **C++**.
-
-```cpp
-while (!accepted) {
-    code();
-    debug();
-    coffee++;
-}
